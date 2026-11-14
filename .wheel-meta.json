@@ -1,0 +1,22 @@
+{
+  "wheel_id": 893,
+  "structure": "umbrella",
+  "slug": "retainingwallcanberra-115",
+  "project": "retaining-walls-canberra-checklist-706f44d49e34e166657554ef35b1",
+  "parent_t1_ref": "retainingwallcanberra-157",
+  "node_role": "feeder",
+  "money_target": "retainingwallcanberra.com.au",
+  "primary_kw": "retaining walls canberra checklist",
+  "intended_url": "https://sitesau.github.io/retainingwallcanberra-115/",
+  "tier": "T2",
+  "writeback_nonce": "30a8b3f47d620653",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-canberra-common-mistakes-24659258763febddf89fa3/",
+      "anchor": "a guide to retaining walls canberra common mistakes",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
